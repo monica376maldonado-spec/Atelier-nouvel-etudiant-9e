@@ -1,0 +1,6 @@
+{
+  "name": "Atelier d'Étude - Examen Français 9ème",
+  "description": "Plateforme interactive d'entraînement pour l'examen cumulatif de français 9ème : compréhension écrite, orale, production écrite et grammaire avec vérification immédiate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
